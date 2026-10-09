@@ -9,8 +9,7 @@
 <p>
   <a href="https://www.linkedin.com/in/sridharreddy22aekn1990"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:somireddysridharreddy1223@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://sridharreddy22.github.io"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
-  <img src="https://komarev.com/ghpvc/?username=sridharreddy22&style=for-the-badge&color=2c5364&label=Profile+Views" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=sridharreddy22&style=for-the-badge&color=2c5364&label=Profile+Views" alt="Profile views"/>
 </p>
 
 </div>
@@ -65,10 +64,10 @@ I'm a **Data Analyst** with an **M.S. in Data Analytics from Saint Louis Univers
 
 ## 🚀 Featured Projects
 
-| Project | Question it answers | Tools |
+| Project | What it shows | Tech |
 |---|---|---|
-| [Clinical Trials SQL Analysis](https://github.com/sridharreddy22/clinical-trials-sql) | Why do clinical trials get terminated? Enrollment problems explain about 31% of early stops across 148,833 closed Phase 1-4 trials | PostgreSQL, DBeaver |
-| [U.S. Flight Delay Intelligence](https://github.com/sridharreddy22/flight-delay-intelligence) | When and where do U.S. flights run late? 20.9M flights, 2023-2025 | Python, Pandas, Plotly, Streamlit |
+| [Clinical Trials SQL Analysis](https://github.com/sridharreddy22/clinical-trials-sql) | Why do clinical trials get terminated? Enrollment problems explain about 31% of early stops across 148,833 closed Phase 1-4 trials | PostgreSQL, SQL, DBeaver |
+| [U.S. Flight Delay Intelligence](https://github.com/sridharreddy22/flight-delay-intelligence) ([Live demo](https://us-domestic-flight-delays.streamlit.app)) | When and where do U.S. flights run late? 20.9M flights, 2023-2025, by carrier, airport, route, and cause | Python, Pandas, Plotly, Streamlit |
 
 More academic projects (a healthcare analytics dashboard and CKDPredict, a kidney disease risk model) are described on my LinkedIn.
 
