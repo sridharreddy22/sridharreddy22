@@ -83,8 +83,6 @@ I'm a **Data Analyst** with an **M.S. in Data Analytics from Saint Louis Univers
 
 <img src="https://streak-stats.demolab.com?user=sridharreddy22&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sridharreddy22&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph"/>
-
 </div>
 
 ---
