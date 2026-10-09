@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-I'm a **Data Analyst** with an **M.S. in Data Analytics from Saint Louis University (May 2026)** and a B.Tech in Electrical and Electronics Engineering. I enjoy taking messy, real-world data and turning it into clean analysis, interactive dashboards, and insights people can act on.
+I'm a **Data Analyst** with an **M.S. in Data Analytics from Saint Louis University (May 2026)**. I enjoy taking messy, real-world data and turning it into clean analysis, interactive dashboards, and insights people can act on.
 
 - 🔭 Recently built **[Flight Delay Intelligence](https://github.com/sridharreddy22/flight-delay-intelligence)** — a live Streamlit dashboard on U.S. flight delays
 - 🧪 Recently shipped **[Clinical Trials SQL Analysis](https://github.com/sridharreddy22/clinical-trials-sql)** on the ClinicalTrials.gov (AACT) PostgreSQL database
