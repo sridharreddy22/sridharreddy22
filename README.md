@@ -65,12 +65,12 @@ I'm a **Data Analyst** with an **M.S. in Data Analytics from Saint Louis Univers
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
+| Project | Question it answers | Tools |
 |---|---|---|
-| ✈️ **[Flight Delay Intelligence](https://github.com/sridharreddy22/flight-delay-intelligence)** · [Live Demo](https://us-domestic-flight-delays.streamlit.app) | Interactive dashboard analyzing U.S. domestic flight delays from BTS data — trends by carrier, airport, route, and cause. | Python, Pandas, Plotly, Streamlit |
-| 🧪 **[Clinical Trials SQL Analysis](https://github.com/sridharreddy22/clinical-trials-sql)** | SQL analysis of the ClinicalTrials.gov AACT database — trial phases, sponsors, conditions, status, and completion trends. | PostgreSQL, SQL, DBeaver |
-| 🐦 **[SR Tweets Dashboard](https://github.com/sridharreddy22/sr-tweets)** | My first Streamlit dashboard exploring tweet data. | Python, Streamlit |
-| 🌐 **[Digital Resume](https://github.com/sridharreddy22/sridharreddy22.github.io)** | Personal portfolio and resume site hosted on GitHub Pages. | HTML, CSS |
+| [Clinical Trials SQL Analysis](https://github.com/sridharreddy22/clinical-trials-sql) | Why do clinical trials get terminated? Enrollment problems explain about 31% of early stops across 148,833 closed Phase 1-4 trials | PostgreSQL, DBeaver |
+| [U.S. Flight Delay Intelligence](https://github.com/sridharreddy22/flight-delay-intelligence) | When and where do U.S. flights run late? 20.9M flights, 2023-2025 | Python, Pandas, Plotly, Streamlit |
+
+More academic projects (a healthcare analytics dashboard and CKDPredict, a kidney disease risk model) are described on my LinkedIn.
 
 ---
 
@@ -99,14 +99,6 @@ I'm a **Data Analyst** with an **M.S. in Data Analytics from Saint Louis Univers
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-*Coming soon — automated via GitHub Actions.*
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -114,7 +106,6 @@ I'm a **Data Analyst** with an **M.S. in Data Analytics from Saint Louis Univers
 <a href="https://www.linkedin.com/in/sridharreddy22aekn1990"><img src="https://img.shields.io/badge/LinkedIn-Sridhar%20Reddy%20Somireddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/sridharreddy22"><img src="https://img.shields.io/badge/GitHub-sridharreddy22-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:somireddysridharreddy1223@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://sridharreddy22.github.io"><img src="https://img.shields.io/badge/Portfolio-sridharreddy22.github.io-2C5364?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 
 <br/><br/>
 
